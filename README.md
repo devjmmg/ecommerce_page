@@ -36,14 +36,14 @@ Se define un ancho y un alto y luego el object-fit.
 
 # Campo datalist
 
-<!--
-<input class="campo__field" list="categorias" name="categorias" placeholder="Tu categoría">
-<datalist id="categorias">
-    <option value="Cocina">
-    <option value="Exterior">
-    <option value="Recamaras">
-    <option value="Oficina">
-    <option value="Televisión">
-</datalist>
+1°parte
+< input class="campo__field" list="categorias" name="categorias" placeholder="Tu categoría"
 
-->
+2° parte
+< datalist id="categorias">
+    < option value="Cocina" >
+    < option value="Exterior" >
+    < option value="Recamaras" >
+    < option value="Oficina" >
+    < option value="Televisión">
+< /datalist>
